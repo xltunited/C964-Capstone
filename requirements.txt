@@ -4,7 +4,6 @@ matplotlib==3.5.2
 matplotlib-base==3.5.2
 seaborn==0.11.2
 ipywidgets==7.6.5
-_ipyw_jlab_nb_ext_conf==0.1.0
 scikit-learn==1.1.1
 scikit-learn-intelex==2021.5.0
 scikit-image==0.19.2
